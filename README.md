@@ -1,3 +1,3 @@
 # HTML-CSS
 
-src="img/logo.png" alt="">
+<img src="img/logo.png" alt="">
